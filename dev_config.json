@@ -1,0 +1,42 @@
+[
+    {
+        "account": {
+            "created_date": "2023-07-05T08:04:06.491503Z",
+            "id": 1,
+            "last_modified_date": "2023-07-05T08:04:06.491530Z",
+            "password": "kutikho1",
+            "platform": "+POAHXXA2HGKZKO7LCXI7AGMTBXVCUFOZ+",
+            "username": "100087189767077"
+        },
+        "created_date": "2023-07-13T02:47:25.920190Z",
+        "device": {
+            "hardware_status": "",
+            "id": 4,
+            "ip_addr": "192.168.14.105",
+            "online_status": "online"
+        },
+        "id": 11,
+        "keyword": "[{\"key\": \"chuy\u1ebfn bay gi\u1ea3i c\u1ee9u\", \"subKey\": [\"h\u1ed5i l\u1ed9\", \" x\u00e9t x\u1eed\", \" ch\u1ee7 m\u01b0u\"]}]",
+        "last_modified_date": "2023-07-13T02:47:25.967081Z"
+    },
+    {
+        "account": {
+            "created_date": "2023-07-05T08:58:01.914485Z",
+            "id": 2,
+            "last_modified_date": "2023-07-05T08:58:01.914548Z",
+            "password": "kutikho1",
+            "platform": "+B26TRTMSRLPOD7JNKDIEQ2QT5KNRWTB4+",
+            "username": "100087181096088"
+        },
+        "created_date": "2023-07-13T02:54:24.631712Z",
+        "device": {
+            "hardware_status": "",
+            "id": 4,
+            "ip_addr": "192.168.14.105",
+            "online_status": "online"
+        },
+        "id": 12,
+        "keyword": "[{\"key\": \"chuy\u1ebfn bay gi\u1ea3i c\u1ee9u\", \"subKey\": [\"h\u1ed5i l\u1ed9\", \" x\u00e9t x\u1eed\", \" ch\u1ee7 m\u01b0u\"]}]",
+        "last_modified_date": "2023-07-13T02:54:24.738878Z"
+    }
+]
