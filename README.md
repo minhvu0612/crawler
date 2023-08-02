@@ -15,3 +15,8 @@
 3. Khác
     Thay đổi địa chỉ ip theo server
 ```
+
+## Ref
+Google-Chrome-Stable package: https://www.ubuntuupdates.org/package/google_chrome/stable/main/base/google-chrome-stable
+
+Config Chrome Version
